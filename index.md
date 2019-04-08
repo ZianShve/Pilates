@@ -4,7 +4,7 @@
 <p>Effective date: April 08, 2019</p>
 
 
-<p>Pilates ("us", "we", or "our") operates the Pilates mobile application (hereinafter referred to as the "Service").</p>
+<p>We operates the Pilates mobile application (hereinafter referred to as the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. The Privacy Policy  for Pilates has been created with the help of <a href="https://termsfeed.com/privacy-policy/generator/">TermsFeed Privacy Policy Generator</a>.</p>
 
